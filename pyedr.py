@@ -12,7 +12,6 @@ Detections are rigorously mapped to the MITRE ATT&CK® framework, utilizing
 explicit, auditable logic to provide high-fidelity alerts with comprehensive 
 context.
 
-Author:  Techienerd
 Scope:   Windows OS environments (Registry, Services, Scheduled Tasks). 
          Process and network telemetry collection is cross-platform.
 Dependencies: psutil (pip install psutil)
